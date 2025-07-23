@@ -13,7 +13,7 @@
 
 ## 주요 라이브러리
 - react
-- zustant
+- zustand
 - react-router-dom
 - react-hook-form
 - yup
