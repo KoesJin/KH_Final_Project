@@ -42,7 +42,7 @@ Communication / IDE
 ## 사용 라이브러리및 API
 ### Front-End
 - react
-- zustant
+- zustand
 - react-router-dom
 - react-hook-form
 - yup
