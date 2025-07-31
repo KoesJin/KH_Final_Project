@@ -12,9 +12,13 @@
 - exception : 사용자 정의 예외 처리
 
 ## API 명세
-(erd 클라우드 사진 첨부 및 간단한 테이블 설명 추가)
+
+### 전체 ERD 
+<img width="1478" height="545" alt="스크린샷 2025-07-31 오후 5 20 34" src="https://github.com/user-attachments/assets/c519361b-b4f3-4c82-a232-41b55f3b1976" />
 
 ### USERS (회원)
+<img width="800" height="385" alt="스크린샷 2025-07-31 오후 5 27 22" src="https://github.com/user-attachments/assets/2370056a-50e1-4e85-a9fc-5730d59d9523" />
+
 | 메서드 | 엔드포인트        | 설명           |
 | ------ | ---------------- | -------------- |
 | POST | /users/v1 | 회원가입 (등록) |
