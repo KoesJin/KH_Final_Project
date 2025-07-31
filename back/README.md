@@ -11,29 +11,8 @@
 - config : 스프링 및 보안 설정 클래스
 - exception : 사용자 정의 예외 처리
 
-
-## 주요 라이브러리
-- spring boot
-- spring security
-- jjwt (io.jsonwebtoken)
-- spring data jpa
-- mysql connector
-- spring boot devtools
-- spring validation
-- thymeleaf
-- spring mail
-- spring boot oauth2
-- amazon aws sdk (s3)
-- spring ai
-
-## 실행 방법
-
-```bash
-cd back
-./gradlew bootRun
-```
-
 ## API 명세
+(erd 클라우드 사진 첨부 및 간단한 테이블 설명 추가)
 
 ### USERS (회원)
 | 메서드 | 엔드포인트        | 설명           |
