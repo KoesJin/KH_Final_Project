@@ -16,6 +16,8 @@
 ### 전체 ERD 
 <img width="1478" height="545" alt="스크린샷 2025-07-31 오후 5 20 34" src="https://github.com/user-attachments/assets/c519361b-b4f3-4c82-a232-41b55f3b1976" />
 
+<hr/>
+
 ### USERS (회원)
 <img width="800" height="385" alt="스크린샷 2025-07-31 오후 5 27 22" src="https://github.com/user-attachments/assets/2370056a-50e1-4e85-a9fc-5730d59d9523" />
 
