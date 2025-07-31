@@ -40,8 +40,6 @@ Communication / IDE
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 
 ## 사용 API
-
-### API
 - Google Oauth 2.0 API : 소셜 로그인 인증
 - Sgis Open API : 지역명 조회
 - Kakao map API : 주소 검색
